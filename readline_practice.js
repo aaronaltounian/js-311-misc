@@ -1,3 +1,5 @@
+// Create a node program that can save a file using readline and fs:
+
 const readline = require('readline');
 const fs = require('fs');
 
